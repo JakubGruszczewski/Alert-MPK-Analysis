@@ -10,7 +10,7 @@ Finally, the data is visualized through charts.
 
 ![image](https://github.com/JakubGruszczewski/Alert-MPK-Analysis/assets/114396056/9d61b6ec-b60f-47c6-b7c1-3d92c52d33f5)
 
-![image](https://github.com/JakubGruszczewski/Alert-MPK-Analysis/assets/114396056/b8ca8532-f30a-43e8-978e-ceb4c8077b47)
+![image](https://github.com/JakubGruszczewski/Alert-MPK-Analysis/assets/114396056/2ba25142-4b97-47d6-b54b-c101d51f5df5)
 
 
 Additional charts are available in the source file (mpk_wroclaw.ipynb).
